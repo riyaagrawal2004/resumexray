@@ -1,0 +1,14 @@
+# Backend (Maven)
+backend/target/
+backend/.mvn/
+backend/src/main/resources/application-secrets.properties
+
+# Frontend (Node)
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.iml
